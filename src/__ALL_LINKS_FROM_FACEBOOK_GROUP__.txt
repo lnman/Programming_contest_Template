@@ -1,0 +1,109 @@
+Tutorial for algo :
+
+Graph:
+ 
+BFS: http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/GraphAlgor/breadthSearch.htm
+ 
+DFS:
+http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/GraphAlgor/depthSearch.htm
+http://www.shafaetsplanet.com/planetcoding/?p=973
+ 
+TREE: Diameter: http://www.shafaetsplanet.com/planetcoding/?p=521
+ 
+Articulation point: http://sketchingdream.wordpress.com/as-artpoint/
+ 
+http://www.ibluemojo.com/school/articul_algorithm.html
+ 
+Union Find: http://www.shafaetsplanet.com/planetcoding/?p=763
+ 
+Topological sort:
+http://www.shafaetsplanet.com/planetcoding/?p=848 https://sites.google.com/site/smilitude/topsort
+ 
+Shortest Path:
+https://sites.google.com/site/smilitude/shortestpath https://sites.google.com/site/smilitude/shortestpath_problems    
+Probabilities
+ 
+Expectection: http://www.codechef.com/wiki/tutorial-expectation
+ 
+Probabilities: http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=probabilities
+ 
+Combinatorics : http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=probabilities
+ 
+Binary Search & Bisection: http://itsfaiyaz.wordpress.com/2012/05/21/bisection/
+ 
+ 
+Computational geometry
+ 
+http://www.mediafire.com/?g137w6qc9pz93al
+http://www.mediafire.com/?rtp2ioz4al62lsm http://www.mediafire.com/?6u61fn4zj6cpu05                
+ 
+ 
+DP:
+ 
+http://web.archive.org/web/20100726235908/http://www.comp.nus.edu.sg/~stevenha/myteaching/notes/8_dynamic_programming.html
+ 
+http://www.shafaetsplanet.com/planetcoding/?tag=%E0%A6%A1%E0%A6%BF%E0%A6%AA%E0%A6%BF
+ 
+https://sites.google.com/site/smilitude/recursion_and_dp
+Knapsack: https://sites.google.com/site/programinggconcept/0-1-knapsack
+
+http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=dynProg
+ 
+Matrix Expo:
+http://zobayer.blogspot.com/2010/11/matrix-exponentiation.html
+ 
+STL:
+ 
+https://sites.google.com/site/smilitude/cpp
+https://sites.google.com/site/smilitude/stl
+ 
+ 
+Backtracking:
+http://www.shafaetsplanet.com/planetcoding/?tag=%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%82
+ 
+ 
+Other lists of collections:
+ 
+ 
+http://www.shafaetsplanet.com/planetcoding/?p=879
+http://wcipeg.com/wiki/Special:AllPages
+CTRL + Q to Enable/Disable GoPhoto.it
+http://itsfaiyaz.wordpress.com/category/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2/
+
+
+
+
+
+
+
+
+
+###############################################################################################################################################################################################################
+
+Articles:
+http://infoarena.ro/articole (In romanian Language, use chrome or google translator)
+http://e-maxx.ru/ (In russian Language, use chrome or google translator)
+http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static (In english Language)
+http://progkriya.com (????????? ???????? ??????? ????)
+http://softsurfer.com/algorithm_archive.htm  (Computational Geometry)
+https://sites.google.com/site/smilitude (blog of iqram mahmud)
+OJ:
+http://www.lightoj.com/
+http://www.spoj.pl/
+http://codeforces.com/
+http://www.codechef.com/
+http://acm.timus.ru/
+http://uva.onlinejudge.org/
+http://livearchive.onlinejudge.org/
+ 
+Informatics Olympiad Problem and Solution Collection:
+http://hsin.hr/coci
+ 
+Articles (Course work):
+http://www.stanford.edu/class/cs97si/
+ 
+Notebook:
+Stanford Team Notebook (http://stanford.edu/~liszt90/acm/notebook.html)
+ 
+Contest Calender:
+http://codingdoor.com/
